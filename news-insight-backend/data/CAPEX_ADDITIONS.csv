@@ -1,0 +1,17 @@
+code,name_ko,category,layer,synonyms,description
+CAPEX_US_TOTAL,미국 전체 설비투자,CAPEX,global,"미국 CAPEX;US CAPEX;미국 자본지출;미국 설비투자지출",미국 전체 기업의 설비투자 지출 총액. GDP 대비 비율도 중요 지표.
+CAPEX_KR_TOTAL,한국 전체 설비투자,CAPEX,domestic,"한국 CAPEX;KR CAPEX;한국 자본지출;한국 설비투자지출",한국 전체 기업의 설비투자 지출 총액. 경기 순환과 밀접한 관계.
+CAPEX_SEMI_US,미국 반도체 설비투자,CAPEX,global,"미국 반도체 CAPEX;US Semi CAPEX;미국 반도체 설비투자지출",미국 반도체 기업들의 설비투자 지출. 반도체 업황의 선행 지표.
+CAPEX_SEMI_KR,한국 반도체 설비투자,CAPEX,domestic,"한국 반도체 CAPEX;KR Semi CAPEX;한국 반도체 설비투자지출",한국 반도체 기업들의 설비투자 지출. 삼성전자 SK하이닉스 등 주요 기업 포함.
+CAPEX_AUTO_US,미국 자동차 설비투자,CAPEX,global,"미국 자동차 CAPEX;US Auto CAPEX",미국 자동차 기업들의 설비투자 지출. 전기차 전환 투자 포함.
+CAPEX_AUTO_KR,한국 자동차 설비투자,CAPEX,domestic,"한국 자동차 CAPEX;KR Auto CAPEX",한국 자동차 기업들의 설비투자 지출. 현대기아차 전기차 투자 포함.
+CAPEX_CHINA_TOTAL,중국 전체 설비투자,CAPEX,global,"중국 CAPEX;CN CAPEX;중국 자본지출",중국 전체 기업의 설비투자 지출 총액. 중국 경제 성장 지표.
+CAPEX_RATIO_US,미국 설비투자 대 GDP 비율,CAPEX,global,"미국 CAPEX/GDP;US CAPEX Ratio",미국 설비투자를 GDP로 나눈 비율. 경기 순환의 선행 지표.
+CAPEX_RATIO_KR,한국 설비투자 대 GDP 비율,CAPEX,domestic,"한국 CAPEX/GDP;KR CAPEX Ratio",한국 설비투자를 GDP로 나눈 비율. 경기 회복 신호.
+CAPEX_ENERGY_US,미국 에너지 설비투자,CAPEX,global,"미국 에너지 CAPEX;US Energy CAPEX",미국 에너지 기업들의 설비투자 지출. 원유가와 밀접한 관계.
+CAPEX_ENERGY_KR,한국 에너지 설비투자,CAPEX,domestic,"한국 에너지 CAPEX;KR Energy CAPEX",한국 에너지 기업들의 설비투자 지출. 정유사 발전사 등 포함.
+CAPEX_BIO_US,미국 바이오 설비투자,CAPEX,global,"미국 바이오 CAPEX;US Bio CAPEX",미국 바이오/제약 기업들의 설비투자 지출. 신약 개발 투자 포함.
+CAPEX_BIO_KR,한국 바이오 설비투자,CAPEX,domestic,"한국 바이오 CAPEX;KR Bio CAPEX",한국 바이오/제약 기업들의 설비투자 지출. 바이오 벤처 투자 포함.
+CAPEX_TECH_US,미국 IT 설비투자,CAPEX,global,"미국 IT CAPEX;US Tech CAPEX",미국 IT 기업들의 설비투자 지출. 데이터센터 클라우드 투자 포함.
+CAPEX_TECH_KR,한국 IT 설비투자,CAPEX,domestic,"한국 IT CAPEX;KR Tech CAPEX",한국 IT 기업들의 설비투자 지출. 소프트웨어 하드웨어 투자 포함.
+

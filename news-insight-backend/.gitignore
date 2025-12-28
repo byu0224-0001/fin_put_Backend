@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 환경 변수
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 로그
+*.log
+logs/
+enrichment_debug.log
+
+# 리포트 및 상태 파일
+reports/
+status/
+docs_cache/
+
+# 테스트 데이터 및 캐시
+data/ab_test_results/
+data/gemini_test_results/
+data/gemini_test_monitoring/
+data/quantization_test_results/
+data/pdf_cache/
+data/*.txt
+data/*.json
+data/*.md
+data/*.log
+
+# 데이터베이스
+*.db
+*.sqlite
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 테스트
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Docker
+.dockerignore
