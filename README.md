@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # News Insight Platform
 
 > 뉴스 소비를 단순 정보 읽기가 아닌 '나만의 인사이트 자산'으로 전환시키는 AI 기반 개인 지식 성장 플랫폼
@@ -87,8 +86,3 @@ MIT
 ---
 
 **Made with ❤️ for Knowledge Growth**
-
-=======
-# fin_put_Backend
-fin_put_Backend
->>>>>>> 904bcef210f44afc24d280d159184219b411dca4
